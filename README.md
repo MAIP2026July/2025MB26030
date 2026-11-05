@@ -1,3 +1,7 @@
+No	Full name	Student ID	GitHub ID
+1	Priya M	2025MB26030	Priya-bits237
+
+
 # ModelTrace local inventory portal demonstrator
 
 A runnable, synthetic human-in-the-loop capstone prototype. Open `dist/index.html` in a modern desktop browser after extracting the complete ZIP. No installation, account, API key or external service is required. Keep `core.js`, `app.js` and `style.css` beside `index.html`.
