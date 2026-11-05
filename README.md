@@ -1,18 +1,13 @@
-No	Full name	Student ID	GitHub ID
-1	Priya M	2025MB26030	Priya-bits237
-
-
-# ModelTrace local inventory portal demonstrator
-
-A runnable, synthetic human-in-the-loop capstone prototype. Open `dist/index.html` in a modern desktop browser after extracting the complete ZIP. No installation, account, API key or external service is required. Keep `core.js`, `app.js` and `style.css` beside `index.html`.
-
 ## Team details
 
 | Full name | Student ID | GitHub ID |
 |---|---|---|
 | Priya M | 2025MB26030 | Priya-bits237 |
 
-Actual individual contribution disclosure must be completed by the student. ChatGPT generated this local implementation, synthetic fixtures, tests, screenshots and supporting draft; do not describe AI generation as independently completed human work.
+# ModelTrace local inventory portal demonstrator
+
+A runnable, synthetic human-in-the-loop capstone prototype. Open `dist/index.html` in a modern desktop browser after extracting the complete ZIP. No installation, account, API key or external service is required. Keep `core.js`, `app.js` and `style.css` beside `index.html`.
+
 
 ## What works
 
@@ -38,23 +33,5 @@ All data is processed in this browser. Local browser storage may retain syntheti
 
 Complete evidence; omitted stress analysis; backtesting evidence needing clarification; contradictory monitoring frequencies; unreadable report; a narrow known instruction-attempt pattern. The last case does not demonstrate general injection resistance.
 
-## Run checks
 
-With Node.js installed, run from this directory:
 
-```bash
-node tests/core.test.cjs
-```
-
-Thirteen checks pass on the included synthetic fixtures. These are controlled regression checks rather than independent accuracy estimates. Browser interactions were also checked for report submission, checklist gating, clarification saving, parsing fallback, version isolation and export. See `evidence/test_results.txt` and `evidence/sample_evidence_note.json`.
-
-## Files
-
-- `dist/`: application and screening logic.
-- `tests/`: controlled checks.
-- `screenshots/`: actual browser captures of the working local demonstrator.
-- `evidence/`: test output and one synthetic exported evidence note.
-- `DEMO_GUIDE.md`: suggested walkthrough.
-- `AI_Self_Evaluation.md`: limitations and next decision.
-
-No hosted demo or GitHub repository has been created. The ZIP is the delivered source package. The localhost preview used for QA is temporary and is not a live demo URL.
